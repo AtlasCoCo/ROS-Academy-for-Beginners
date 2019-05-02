@@ -1,3 +1,4 @@
+![](Boston_Dynamics_Atlas.gif)
 # <center>《机器人操作系统入门》课程代码示例</center>
 
 ---
@@ -85,5 +86,3 @@ $ source ~/catkin_ws/devel/setup.bash
 
 ---
 ## Copyright
-
-![Logo](./joint_logo.png)
